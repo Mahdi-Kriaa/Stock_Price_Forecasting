@@ -32,7 +32,7 @@ The exploratory visuals include the following plots:
     - a partial autocorrelation plot for the boeing daily adj close stock price
     
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Prediction/blob/main/Images/boeing_stock_price_lineplot.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/boeing_stock_price_lineplot.png">
 </p>
 
 This lineplot shows the variation of the boeing daily stock price over the time
