@@ -46,11 +46,21 @@ The models used in this project are the following :
     
 ### Models Evaluation & Results
 
+<p align = "center"> 
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/arima_test.png">
+</p>
+This plot shows the performnce of the ARIMA model on the testing data
+
+<p align = "center"> 
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/prophet_test.png">
+</p>
+This plot shows the performnce of the Prophet model on the testing data
+
 Models were evaluated depending on the R2, MSE, RMSE and MAE. The following are the RMSE scores for each model on the testing set and for an horizon of 7 days:
 
     - ARIMA: 6.84 
     - Prophet: 13.13
-    
+
 Deponding on all the scores, the ARIMA model had the better performance.
 
 ## Recommendations
