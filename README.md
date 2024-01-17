@@ -9,7 +9,7 @@ The data for this project comes from Yahoo Finance platform which aggregates dat
 
 Link to dataset : https://finance.yahoo.com/quote/BA/history/
 
-This dataset contains 943 raws and 6 columns.
+This dataset contains 943 rows and 6 columns.
 
 ## Data Dictionary
 - Open: the opening price of the stock on the given date
