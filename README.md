@@ -67,7 +67,9 @@ Models were evaluated depending on the R2, MSE, RMSE and MAE. The following are 
 
 Deponding on all the scores, the ARIMA model had the better performance.
 
-## Recommendations
+## Recommandations
+- The use of the ARIMA model to forecast the daily stock price is reliable for an horizon of 7 days and an error tolerance of 5$.
+- Regardless the prformance of this model, It is important to take in consideration any events that can affect the stock price such a pandemic or economic crisis, befor taking any decision.
 
-- The use of the ARIMA model to forecast the daily stock price is reliable for an horizon of 7 days and an error tolerance of 5$
-- Regardless the prformance of this model, It is important to take in consideration any events that can affect the stock price such a pandemic or economic crisis, befor tking any decision
+## Limitations & Next Steps
+for an horizon of more than 7 days the model could not be very reliable so to improve its performance for a higher horizons we can add other features like economic indicators and try to combine different models.
