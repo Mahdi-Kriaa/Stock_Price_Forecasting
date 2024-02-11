@@ -72,4 +72,4 @@ Deponding on all the scores, the ARIMA model had the better performance.
 - Regardless the prformance of this model, It is important to take in consideration any events that can affect the stock price such a pandemic or economic crisis, befor taking any decision.
 
 ## Limitations & Next Steps
-for an horizon of more than 7 days the model could not be very reliable so to improve its performance for a higher horizons we can add other features like economic indicators and try to combine different models.
+For an horizon of more than 7 days the model could not be very reliable so to improve its performance for a higher horizons we can add other features like economic indicators and try to combine different models.
