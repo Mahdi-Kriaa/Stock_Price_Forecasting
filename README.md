@@ -1,8 +1,8 @@
 # Stock_Price_Forecasting
 
-## Introduction
+## Objective
 
-A company’s stock price is a potent indicator of the company's health, reflecting investor confidence in its ability to weather economic storms, innovate, and deliver shareholder value. Accurately predicting its movements empowers investors to make good decisions, hedge against risks, and capitalize on potential opportunities. This project aims to predict the daily stock price of Boeing company in Nasdaq stock market with a small datset, wich is useful when dealing with companies that have been listed on the stock market for less than 3 years.
+A company’s stock price is a potent indicator of the company's health, reflecting investor confidence in its ability to weather economic storms, innovate, and deliver shareholder value. Accurately predicting its movements empowers investors to make good decisions, hedge against risks, and capitalize on potential opportunities. Thus, this project aims to predict the daily stock price of Boeing company in Nasdaq stock market with a small datset, wich is useful when dealing with companies that have been listed on the stock market for less than 3 years.
 
 ## Data Source & Size
 The data for this project comes from Yahoo Finance platform which aggregates data from different stock markets.
