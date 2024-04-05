@@ -5,15 +5,12 @@ A company’s stock price is a potent indicator of the company's health, reflect
 
 ## Data Description
 
-### Overview
-The Dataset contains daily records for the stock price of Boeing company in Nasdaq stock market.
+### Data Overview
+The Dataset contains daily records for the stock price of Boeing company in Nasdaq stock market and it comes from Yahoo Finance platform which aggregates data from different stock markets.
 This dataset contains 943 rows and 6 columns.
-
-### Data Source
-The data for this project comes from Yahoo Finance platform which aggregates data from different stock markets.
 Link to dataset : https://finance.yahoo.com/quote/BA/history/
 
-## Data Dictionary
+### Data Dictionary
 - Open: the opening price of the stock on the given date
 - High: the highest price at which the stock traded during the course of the day
 - Low: the lowest price at which the stock traded during the course of the day
