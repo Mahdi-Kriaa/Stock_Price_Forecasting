@@ -8,6 +8,7 @@ A company’s stock price is a potent indicator of the company's health, reflect
 ### Data Overview
 The Dataset contains daily records for the stock price of Boeing company in Nasdaq stock market and it comes from Yahoo Finance platform which aggregates data from different stock markets.
 This dataset contains 943 rows and 6 columns.
+
 Link to dataset : https://finance.yahoo.com/quote/BA/history/
 
 ### Data Dictionary
