@@ -31,7 +31,7 @@ The exploratory visuals include the following plots:
     - a partial autocorrelation plot for the boeing daily adj close stock price
     
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/boeing_stock_price_lineplot.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/images/boeing_stock_price_lineplot.png">
 </p>
 
 This lineplot shows the variation of the boeing daily stock price over the time
@@ -46,14 +46,14 @@ The models used in this project are the following :
 ### Models Evaluation & Results
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/arima_test.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/images/arima_test.png">
 </p>
 
 This plot shows the performnce of the ARIMA model on the testing data
 
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/Images/prophet_test.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Stock_Price_Forecasting/blob/main/images/prophet_test.png">
 </p>
 
 This plot shows the performnce of the Prophet model on the testing data
